@@ -1,0 +1,7 @@
+# Visual assets and rights
+
+- **BeKlean wordmark and K icons:** retained for the authorized portfolio showcase. That permission is not a grant to use the BeKlean identity in another project or for another purpose.
+- **Hero and About illustration:** Nastuh Abootalebi, [original photograph on Unsplash](https://unsplash.com/photos/hallway-between-glass-panel-doors-yWwob8kwOCk), under the [Unsplash License](https://unsplash.com/license) and subject to the [Unsplash Terms](https://unsplash.com/terms). The two optimized WebPs are reused in the portfolio's two existing image frames. The stock image does not depict BeKlean premises or a client project.
+- **Original About illustration:** renkilde, [original photograph on Pixabay](https://pixabay.com/photos/cleaning-office-desk-wiping-8660309/). The commercial redesign used an adapted version. The downloadable WebPs are omitted from this portfolio: the [Pixabay Terms](https://pixabay.com/service/terms/) restrict standalone redistribution and specifically distinguish resizing, cropping and recoloring from a new creative work. The About composition and responsive image treatment are retained.
+- **Screenshots:** no separately approved screenshot files were supplied for inclusion in this copy. Add only the exact approved captures after checking for visible contact details and other personal or client-only material.
+- **Other rights:** dependencies and third-party material retain their respective licenses. No blanket license is granted over the code, company branding or stock imagery.
