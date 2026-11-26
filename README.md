@@ -4,6 +4,12 @@ A portfolio edition of a real client project: a French-language redesign for BeK
 
 **Official website:** [beeklean.be](https://beeklean.be). This repository is a separately prepared demonstration, not the official website, its deployment source or a live quote channel. The link identifies the real business; it does not imply that the portfolio build is deployed there.
 
+## Project Screenshots
+
+### Desktop
+
+![BeKlean desktop homepage showing the navigation, French hero headline, quote buttons, and a photograph of a glass-walled office corridor](docs/screenshots/beeklean-homepage-desktop.png)
+
 ## What the project demonstrates
 
 - Reusable Next.js 16 App Router components written in TypeScript, with React 19, Tailwind CSS 4 and shared design tokens.
